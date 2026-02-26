@@ -1,3 +1,14 @@
+## 📦 Featured Project
+
+### [oosh](https://github.com/bruno-de-queiroz/oosh)
+**Annotation-driven bash CLI framework — flags, help, and tab completion for free**
+
+An innovative bash framework that leverages annotations to automatically generate CLI features including flags, help text, and tab completion without boilerplate code.
+
+**Tech:** Bash | CLI Framework | Code Generation | Autocompletion  
+**License:** MIT
+
+---
 ## 🌟 Open Source Contributions
 
 I actively contribute to public open source projects. Here are some of my recent merged contributions:
