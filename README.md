@@ -1,4 +1,12 @@
-## 📦 Featured Project
+## 📦 Featured Projects
+
+### [hoop](https://github.com/bruno-de-queiroz/hoop)
+**Being alone is not a requirement — a sandboxed & web harness on top of Claude Code**
+
+A curated-stack installer plus a containerized local dashboard for Claude Code: a one-consent setup wizard, live sessions, a one-click skill browser, a nested sub-agent tree, push-based event observability, BM25 + optional semantic search, and teammate pairing with read-only plan review.
+
+**Tech:** TypeScript | Next.js | Docker | Bash | Claude Code  
+**License:** MIT
 
 ### [oosh](https://github.com/bruno-de-queiroz/oosh)
 **Annotation-driven bash CLI framework — flags, help, and tab completion for free**
